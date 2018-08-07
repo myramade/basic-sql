@@ -20,3 +20,6 @@ The units in this tutorial are:
 Remember, this is an introdcution to basic SQL and not a full course on SQL. I will NOT cover how to create, modify, or delete a database. 
 
 Ready to get started? 
+
+
+NOTE: I'm currently updateing this repo, please check back later for updates. 
