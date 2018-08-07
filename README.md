@@ -4,6 +4,7 @@ This is an introduction to basic SQL to help business professionals up and runni
 For this tutorial we will be using MySQl Workbench which you can download and install from the [MySQL website](https://dev.mysql.com/downloads/workbench/).  Follow the instructions on the website for your specific operating systems whether it's Windows or Mac. 
 
 The units in this tutorial are:
+
 :octocat: What is a database
 
 :octocat: How a database stores data
