@@ -23,4 +23,4 @@ Remember, this is an introdcution to basic SQL and not a full course on SQL. I w
 Ready to get started? 
 
 
-NOTE: I'm currently updateing this repo, please check back later for updates. 
+NOTE: I'm currently updating this repo, please check back later for updates. 
